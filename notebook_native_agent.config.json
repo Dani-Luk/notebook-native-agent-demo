@@ -1,0 +1,14 @@
+{
+  "name": "Notebook Native Agent",
+  "auto_execute": true,
+  "allow_fallback_codegen": true,
+  "use_model_classifier": false,
+  "echo_context": true,
+  "max_context_items": 10,
+  "max_repr_chars": 200,
+  "allow_repair_retry": true,
+  "max_auto_repair_attempts": 1,
+  "raise_on_auto_exec_failure": false,
+  "max_error_chars": 1600,
+  "assist_on_python_error": true
+}
